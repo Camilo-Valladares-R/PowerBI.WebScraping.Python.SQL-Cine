@@ -16,6 +16,7 @@ DB_SERVER={Nombre_del_servidor}
 DB_DATABASE{Nombre_de_la_base_de_datos}
 ```
 
-
+## Foto del reporte
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/images/Reporte.png)
 
 
